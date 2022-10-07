@@ -34,3 +34,5 @@ console.log(scooby)
 scooby.saludar()
 scooby.sonar()
 scooby.ladrar()
+
+// alanzote el mejor
